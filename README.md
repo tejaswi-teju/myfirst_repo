@@ -1,2 +1,2 @@
 # myfirst_repo
-this is my first repository for demo.
+Helo! This is my first repository for demo.
